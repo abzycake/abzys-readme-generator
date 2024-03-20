@@ -18,3 +18,5 @@ This is a simple ReadME generator using JavaScript and Inquirer
 ## Preview of completed project
 
 ![image](https://github.com/abzycake/abzys-readme-generator/assets/53773585/7a845ba9-eaa0-4c38-8ab1-46bd2ef67cb1)
+
+![image](https://github.com/abzycake/abzys-readme-generator/assets/53773585/04ef2898-9507-4809-af21-16ee66662167)
