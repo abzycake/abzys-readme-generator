@@ -29,8 +29,8 @@ ${data.required}
 ${data.usage}
 ## Contributors
 ${data.contributors}
-## Questions
-Please send your questions [here](mailto:${data.email}?subject=[GitHub]%20Dev%20Connect) or visit [github/${data.creator}](https://github.com/${data.creator}).
+## Contact
+Contact me [here](mailto:${data.email}?) or visit my [GitHub](https://github.com/${data.creator}).
 `;
 }
 
