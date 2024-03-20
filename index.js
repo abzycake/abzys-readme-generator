@@ -9,22 +9,22 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "Enter your project title: ",
+        message: "Enter your application title: ",
     },
     {
         type: "input",
         name: "description",
-        message: "Enter your project desccription: ",
+        message: "Enter your application desccription: ",
     },
     {
         type: "input",
         name: "link",
-        message: "Enter the link to your deployed project: ",
+        message: "Enter the link to your deployed application: ",
     },
     {
         type: "input",
         name: "image",
-        message: "Paste a link to an image of your project: ",
+        message: "Paste a link to an image of your application: ",
     },
     {
         type: "input",
